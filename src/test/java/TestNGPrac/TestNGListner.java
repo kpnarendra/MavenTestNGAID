@@ -11,7 +11,7 @@ import org.testng.ITestResult;
 
 /**
  * @author Narendra_P02
- * @usage result is TestNG Listener class that listens to test case flow and
+ * @usage : TestNG Listener class that listens to test case flow and prints log4j info messages.
  *
  */
 public class TestNGListner implements ITestNGListener  {
