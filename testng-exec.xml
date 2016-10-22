@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+	<test verbose="2" name="Default test">
+		<!-- listeners>
+			<listener class-name="TestNGPrac.TestNGListner.class" />
+		</listeners-->
+
+		<classes>
+			<class name="TestNGPrac.TestngAnnotation1" />
+			<class name="TestNGPrac.TestngAnnotation2" />
+		</classes>
+		
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
