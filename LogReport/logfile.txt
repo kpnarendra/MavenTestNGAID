@@ -1754,3 +1754,7 @@
 2016-10-22 22:50:00 ERROR TestNGPrac.TestngAnnotation2:69 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
 2016-10-22 22:50:58 ERROR TestNGPrac.TestngAnnotation1:80 - Assersion failed in method : testCaseFail in class : class TestNGPrac.TestngAnnotation1
 2016-10-22 22:50:58 ERROR TestNGPrac.TestngAnnotation2:69 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-24 12:08:16 ERROR TestNGPrac.TestngAnnotation1:80 - Assersion failed in method : testCaseFail in class : class TestNGPrac.TestngAnnotation1
+2016-10-24 12:08:16 ERROR TestNGPrac.TestngAnnotation2:69 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-24 12:11:38 ERROR TestNGPrac.TestngAnnotation1:80 - Assersion failed in method : testCaseFail in class : class TestNGPrac.TestngAnnotation1
+2016-10-24 12:11:38 ERROR TestNGPrac.TestngAnnotation2:69 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
