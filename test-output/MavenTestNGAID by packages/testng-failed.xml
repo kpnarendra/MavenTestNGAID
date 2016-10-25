@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <listeners>
-    <listener class-name="TestNGPrac.TestNGListener"/>
-  </listeners>
-  <test verbose="2" name="Default test">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MavenTestNGAID by packages]">
+  <test verbose="2" name="TestNGPrac">
+    <packages>
+      <package name="TestNGPrac"/>
+    </packages>
     <classes>
       <class name="TestNGPrac.TestngAnnotation1"/>
       <class name="TestNGPrac.TestngAnnotation2"/>
       <class name="TestNGPrac.TestngAnnotation3"/>
       <class name="TestNGPrac.TestNGListener"/>
     </classes>
-  </test> <!-- Default test -->
-  <test name="Default test(failed)">
+  </test> <!-- TestNGPrac -->
+  <test name="TestNGPrac(failed)">
     <classes>
+      <class name="TestNGPrac.TestngAnnotation1">
+        <methods>
+          <include name="testCaseFail"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterSuite"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- TestNGPrac.TestngAnnotation1 -->
       <class name="TestNGPrac.TestngAnnotation3">
         <methods>
           <include name="beforeClass"/>
@@ -39,17 +50,6 @@
           <include name="beforeSuite"/>
         </methods>
       </class> <!-- TestNGPrac.TestngAnnotation2 -->
-      <class name="TestNGPrac.TestngAnnotation1">
-        <methods>
-          <include name="testCaseFail"/>
-          <include name="beforeMethod"/>
-          <include name="beforeClass"/>
-          <include name="afterSuite"/>
-          <include name="afterMethod"/>
-          <include name="beforeSuite"/>
-          <include name="afterClass"/>
-        </methods>
-      </class> <!-- TestNGPrac.TestngAnnotation1 -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- TestNGPrac(failed) -->
+</suite> <!-- Failed suite [MavenTestNGAID by packages] -->

@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <listeners>
+    <listener class-name="TestNGPrac.TestNGListener"/>
+  </listeners>
   <test verbose="2" name="Default test">
     <classes>
-      <class name="TestNGPrac.TestNGListner"/>
       <class name="TestNGPrac.TestngAnnotation1"/>
       <class name="TestNGPrac.TestngAnnotation2"/>
+      <class name="TestNGPrac.TestngAnnotation3"/>
+      <class name="TestNGPrac.TestNGListener"/>
     </classes>
   </test> <!-- Default test -->
   <test name="Default test(failed)">
     <classes>
+      <class name="TestNGPrac.TestngAnnotation3">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- TestNGPrac.TestngAnnotation3 -->
       <class name="TestNGPrac.TestngAnnotation2">
         <methods>
           <include name="beforeMethod"/>

@@ -23,7 +23,7 @@ import org.testng.annotations.AfterSuite;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
-
+//@Listeners(TestNGPrac.TestNGListner.class)
 public class TestngAnnotation3 {
 
 	static Logger log = Logger.getLogger(TestngAnnotation3.class.getName());
@@ -112,6 +112,8 @@ public class TestngAnnotation3 {
 		TestngAnnotation1.extent.flush();
 	
 		TestngAnnotation1.extent.close();
+		
+		System.out.println("------------------------- END OF TEST -------------------------");
 
 	}
 }
