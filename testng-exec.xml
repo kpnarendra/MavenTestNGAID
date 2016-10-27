@@ -3,6 +3,7 @@
 <suite name="Default suite">
 		<listeners>
 			<listener class-name="TestNGPrac.TestNGListener" />
+			<listener class-name="TestNGPrac.TestNGListenerReport" />
 		</listeners>
     	<test verbose="2" name="Default test">
 		<classes>
@@ -10,6 +11,7 @@
 			<class name="TestNGPrac.TestngAnnotation2" />
 			<class name="TestNGPrac.TestngAnnotation3" />
 			<class name="TestNGPrac.TestNGListener" />
+			<class name="TestNGPrac.TestNGListenerReport" />
 		</classes>
 		
 	</test> <!-- Default test -->

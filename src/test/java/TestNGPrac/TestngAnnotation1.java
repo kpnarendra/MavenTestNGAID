@@ -60,9 +60,11 @@ public class TestngAnnotation1 {
 		testRep.log(LogStatus.INFO, "inside testCaseFail");
 		System.out.println("in testCaseFail");
 		// LINE HAVING ERROR IN ASSERTION.
-		Assert.assertEquals("Check String", "Check String"); 
+		Assert.assertEquals("Check String", "Check   String"); 
 		//THIS LINE WILL NOT BE PRINTED AS ASSERT FAILS IN ABOVE LINE AND THE CONTROL JUMPS TO AFTERMETHOD.
 		System.out.println("This line will not be printed");  
+		testRep.log(LogStatus.PASS, this.getClass().getName() + this.getClass().getEnclosingMethod(),
+				"The test case stands PASS");
 
 	}
 

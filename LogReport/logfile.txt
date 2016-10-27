@@ -2919,3 +2919,1098 @@
 2016-10-27 19:26:26 ERROR TestNGPrac.TestngAnnotation2:69 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
 2016-10-27 21:44:20 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
 2016-10-27 21:48:25 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 21:59:18 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:38:10 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:26 - ***FROM LISTNER : Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:39:46 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:22 - ***FROM LISTNER : Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:39:46 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:39:46 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:39:46 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:39:46 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:39:46 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:39:46 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:39:47 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:39:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:39:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:39:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:39:47 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:26 - ***FROM LISTNER : Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:44 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:40:53 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:22 - ***FROM LISTNER : Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:40:53 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:40:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:40:53 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:44 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:43:23 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:43:23 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:43:23 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:43:23 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:44 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:46:15 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:46:15 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:46:15 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:46:15 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:44 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:59 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:48:04 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:81 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:48:04 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:48:04 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:48:04 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:48:04 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:48:04 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:48:04 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:48:04 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:48:05 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:48:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:48:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:48:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:48:05 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:48:05 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:48:05 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:48:05 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:58 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:51:01 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:51:01 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:51:01 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:51:01 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:58 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:55:11 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:55:11 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:55:11 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:11 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:58 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:55:52 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:85 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 22:55:52 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListener.java
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 22:55:52 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 22:55:52 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:05:58 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:76 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:86 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:05:58 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:05:58 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:05:58 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:45 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:56 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:13:36 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:13:36 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:13:36 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:13:36 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:16:47 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:16:47 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:16:47 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:16:47 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:18:53 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:88 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:18:53 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:18:53 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:18:53 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:21:45 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:21:45 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:21:45 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:21:45 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:89 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:89 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:23:32 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:89 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:89 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:78 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:89 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:23:32 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:23:32 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:23:32 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:23:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:23:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:23:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:23:32 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:23:33 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:23:33 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:23:33 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:23:33 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:25:05 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:25:05 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:25:05 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:25:05 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:26:32 ERROR TestNGPrac.TestngAnnotation1:83 - Assersion failed in method : testCaseFail in class : class TestNGPrac.TestngAnnotation1
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:26:32 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:26:32 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:26:32 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:26:32 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:114 - File 1 , Func:beforeSuite
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:106 - File 2 , Func:beforeSuite
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:106 - File 3 , Func:beforeSuite
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:26 - ***FROM LISTNER : Inside "onStart" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:43 - ***FROM LISTNER REPORT: Inside "onStart" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:94 - File 2, Func:beforeTest
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:94 - File 3, Func:beforeTest
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:91 - File 1 , Func:beforeClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:59 - File 1 , Func:testCaseFail
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:27:20 ERROR TestNGPrac.TestngAnnotation1:83 - Assersion failed in method : testCaseFail in class : class TestNGPrac.TestngAnnotation1
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:73 - File 1 , Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:45 - File 1 , Func:testCasePass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:79 - File 1 , Func:afterMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:97 - File 1 , Func:afterClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:82 - File 2, Func:beforeClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:53 - File 2, Func:failMethodClass2.java
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:36 - ***FROM LISTNER : Inside "onTestFailure" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:54 - ***FROM LISTNER REPORT: Inside "onTestFailure" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:27:20 ERROR TestNGPrac.TestngAnnotation2:71 - Assersion failed in method : failMethodClass2 in class : class TestNGPrac.TestngAnnotation2
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:61 - File 2, Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:43 -  File 2, Func:passMethodClass2
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:67 - File 2 , Func:afterMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:88 - File 2, Func:afterClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:82 - File 3, Func:beforeClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:43 -  File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:61 - File 3, Func:beforeMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:55 - ***FROM LISTNER : Inside "onTestStart" onFinish function of TestNGListener.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:80 - ***FROM LISTNER REPORT: Inside "onTestStart" onFinish function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:53 - File 3, Func:TestNGPrac.TestngAnnotation3
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:60 - ***FROM LISTNER : Inside "onTestSuccess" function of TestNGListner.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:91 - ***FROM LISTNER REPORT: Inside "onTestSuccess" function of TestNGListnerReport.java.
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:67 - File 3 , Func:afterMethod
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:88 - File 3, Func:afterClass
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:100 - File 2, Func:afterTest
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:100 - File 3, Func:afterTest
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:22 - ***FROM LISTNER : Inside : "onFinish" function of TestNGListener.java
+2016-10-27 23:27:20 INFO  TestNGPrac.TestNGListenerReport:32 - ***FROM LISTNER REPORT: Inside : "onFinish" function of TestNGListnerReport.java
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation1:126 - File 1 , Func:afterSuite
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation2:111 - File 2 , Func:afterSuite
+2016-10-27 23:27:20 INFO  TestNGPrac.TestngAnnotation3:111 - File 3 , Func:afterSuite
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2016-10-27 23:27:20 DEBUG freemarker.cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/narendra_p02/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
