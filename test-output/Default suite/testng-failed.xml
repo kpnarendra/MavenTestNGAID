@@ -41,7 +41,6 @@
       </class> <!-- TestNGPrac.TestngAnnotation2 -->
       <class name="TestNGPrac.TestngAnnotation1">
         <methods>
-          <include name="testCaseFail"/>
           <include name="beforeMethod"/>
           <include name="beforeClass"/>
           <include name="afterSuite"/>

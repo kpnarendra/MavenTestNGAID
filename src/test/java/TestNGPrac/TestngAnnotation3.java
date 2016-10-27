@@ -1,6 +1,8 @@
 /**
  * @author  : Narendra_P02
- * @Purpose : Learn and practice TestNG annotations.
+ * @Purpose : TestNG file has all the annotations - @BEFORESUITE @BEFORETEST @BEFORECLASS @BEFOREMETHOD @TEST 
+ * 			:  @AFTERMETHOD @AFTERCLASS @AFTERTEST @AFTERSUITE
+ * 			: Implements Extent reports and log4j
  * @Run     : Run the file as a testng 
  *
  */

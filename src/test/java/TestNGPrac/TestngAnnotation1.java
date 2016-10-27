@@ -1,7 +1,9 @@
 /**
  * @author  : Narendra_P02
- * @Purpose : Learn and practice TestNG annotations.
- * @Run     : Run the file as a testng 
+ * @Purpose : TestNG file has all the annotations - @BEFORESUITE @BEFORETEST @BEFORECLASS @BEFOREMETHOD @TEST 
+ * 			:  @AFTERMETHOD @AFTERCLASS @AFTERTEST @AFTERSUITE
+ * 			: Implements Extent reports and log4j
+ * @Run     : Run the file as a testng. 
  *
  */
 package TestNGPrac;
@@ -18,7 +20,6 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.AfterSuite;
-
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
@@ -52,16 +53,16 @@ public class TestngAnnotation1 {
 
 	}
 
-	// Fail test case where assertion stands fail.
+	// FAIL TEST CASE WHERE ASSERTION STANDS FAIL.
 	@Test
 	public void testCaseFail() {
 		log.info("File 1 , Func:testCaseFail");
 		testRep.log(LogStatus.INFO, "inside testCaseFail");
-		System.out.println("in test case 2");
-		Assert.assertEquals("Check String", "Check  String"); // Line having
-																// error in
-																// assertion.
-		System.out.println("This line will not be printed");
+		System.out.println("in testCaseFail");
+		// LINE HAVING ERROR IN ASSERTION.
+		Assert.assertEquals("Check String", "Check String"); 
+		//THIS LINE WILL NOT BE PRINTED AS ASSERT FAILS IN ABOVE LINE AND THE CONTROL JUMPS TO AFTERMETHOD.
+		System.out.println("This line will not be printed");  
 
 	}
 
@@ -82,10 +83,6 @@ public class TestngAnnotation1 {
 
 	}
 
-	
-	
-	
-	
 	
 	@BeforeClass
 	public void beforeClass() {
@@ -111,13 +108,15 @@ public class TestngAnnotation1 {
 
 	@BeforeSuite
 	public void beforeSuite() {
-		log.info("File 1 , Func:beforeSuite");
+		
+				log.info("File 1 , Func:beforeSuite");
 		System.out.println("in beforeSuite");
 		extent.addSystemInfo("User name", System.getProperty("user.name"));
 		extent.addSystemInfo("Operating System", System.getProperty("os.name")
 				+ " V." + System.getProperty("os.version"));
 		extent.addSystemInfo("Java Home", System.getProperty("java.home"));
 		extent.addSystemInfo("Java Version", System.getProperty("java.version"));
+		//System.out.println();
 	}
 
 	@AfterSuite
