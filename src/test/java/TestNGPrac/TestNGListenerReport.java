@@ -35,7 +35,7 @@ public class TestNGListenerReport implements ITestListener {
 
 		extentRep.close();
 		
-		System.out.println("------------------------- END OF TEST -------------------------");
+		System.out.println("------------------------- END OF TEST from Listner-------------------------");
 
 	}
 
